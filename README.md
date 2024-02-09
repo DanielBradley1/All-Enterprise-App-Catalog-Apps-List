@@ -1,6 +1,3 @@
-# All-Enterprise-App-Catalog-Apps-List 
-This repo is automatically updated daily with the latest available apps from the Enterprise App Catalog in Microsoft Intune.
-
 <table>
 <colgroup><col/><col/><col/></colgroup>
 <tr><th>productId</th><th>productName</th><th>publisher</th></tr>
@@ -8,6 +5,7 @@ This repo is automatically updated daily with the latest available apps from the
 <tr><td>837f7b3b-265f-4a29-60cd-35e155d1adbd</td><td>Amazon AWS Tools for Windows</td><td>Amazon Web Services Developer Relati</td></tr>
 <tr><td>bd085806-386f-0cff-4aca-363a78f1b639</td><td>Amazon Corretto 16</td><td>Amazon</td></tr>
 <tr><td>156d5bcf-aaea-99b0-5532-35e155c7ce51</td><td>Amazon Kindle</td><td>Amazon</td></tr>
+<tr><td>2309672f-9b8a-8330-35cf-35e155acd2cb</td><td>Android Studio 2022</td><td>Android</td></tr>
 <tr><td>3a6dd992-5e74-21e1-621c-365c7c6d753e</td><td>Android Studio 3</td><td>Android</td></tr>
 <tr><td>249980c7-b652-cbea-621f-365c7c6e0839</td><td>Android Studio 4</td><td>Android</td></tr>
 <tr><td>e5f93561-ab9f-e78a-b687-36260fa7f091</td><td>Araxis Merge</td><td>Araxis</td></tr>
