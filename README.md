@@ -1,7 +1,7 @@
 # All Enterprise App Catalog Apps List 
 This list is automatically updated daily with the latest apps from the Enterprise App Catalog in Microsoft Intune
 
-### Last updated: 10/03/2024
+### Last updated: 
 
 <table>
 <colgroup><col/><col/><col/></colgroup>
@@ -63,6 +63,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>21428b45-c467-f9e2-509d-35e155c425b3</td><td>Microsoft Azure Storage Explorer</td><td>Microsoft</td></tr>
 <tr><td>bad3c9c9-ddf8-52ae-3950-35e155b057cc</td><td>Microsoft Power BI Desktop</td><td>Microsoft</td></tr>
 <tr><td>cdd3b673-c39b-ea11-46ce-35e155bda573</td><td>Microsoft PowerShell Core</td><td>Microsoft</td></tr>
+<tr><td>0f5e571c-f961-d234-5cb7-35e155cf0187</td><td>Microsoft PowerToys</td><td>Microsoft</td></tr>
 <tr><td>72ab50ff-8765-f430-426a-35e155bb1b13</td><td>Microsoft Skype for Desktop</td><td>Microsoft</td></tr>
 <tr><td>68a84850-a268-59fa-729c-365fcf8e8d2b</td><td>Microsoft Surface Diagnostic Toolkit for Business</td><td>Microsoft</td></tr>
 <tr><td>fa8d6266-3948-6dad-1668-35e1558af73e</td><td>Microsoft Visual C++ 2008 Redistributable</td><td>Microsoft</td></tr>
