@@ -1,7 +1,7 @@
 # All Enterprise App Catalog Apps List 
 This list is automatically updated daily with the latest apps from the Enterprise App Catalog in Microsoft Intune
 
-### Last updated: 27/03/2024
+### Last updated: 30/03/2024
 
 <table>
 <colgroup><col/><col/><col/></colgroup>
