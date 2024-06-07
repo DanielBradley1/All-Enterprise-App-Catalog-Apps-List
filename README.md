@@ -1,7 +1,7 @@
 # All Enterprise App Catalog Apps List 
 This list is automatically updated daily with the latest apps from the Enterprise App Catalog in Microsoft Intune
 
-### Last updated: 30/05/2024
+### Last updated: 07/06/2024
 
 <table>
 <colgroup><col/><col/><col/></colgroup>
@@ -16,7 +16,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>93eef4c1-6d55-2858-b7fb-361dd454eb49</td><td>Amazon Corretto 15</td><td>Amazon</td></tr>
 <tr><td>bd085806-386f-0cff-4aca-363a78f1b639</td><td>Amazon Corretto 16</td><td>Amazon</td></tr>
 <tr><td>4473f3f4-0f27-813c-c925-36a03a6e94b6</td><td>Amazon Corretto 19</td><td>Amazon</td></tr>
-<tr><td>1b42ff00-6599-0341-0237-35f987a44a8e</td><td>Amazon Corretto 8</td><td>Amazon</td></tr>
+<tr><td>1b42ff00-6599-0341-0237-35f987a44a8e</td><td>Amazon Corretto JDK 8</td><td>Amazon</td></tr>
 <tr><td>156d5bcf-aaea-99b0-5532-35e155c7ce51</td><td>Amazon Kindle</td><td>Amazon</td></tr>
 <tr><td>2309672f-9b8a-8330-35cf-35e155acd2cb</td><td>Android Studio 2022</td><td>Android</td></tr>
 <tr><td>3a6dd992-5e74-21e1-621c-365c7c6d753e</td><td>Android Studio 3</td><td>Android</td></tr>
@@ -191,6 +191,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>524bdd51-9bbe-b991-563b-35e155c923ed</td><td>Project Plan 365</td><td>Housatonic</td></tr>
 <tr><td>1939e5c0-63a1-54c3-564b-35e155c92c45</td><td>Project Viewer 365</td><td>Viewer Central</td></tr>
 <tr><td>c6498d14-199e-a2dc-3e72-3637c9758cd2</td><td>PSPad</td><td>Jan Fiala</td></tr>
+<tr><td>793b57dd-ef4c-4c46-06e5-35e155787f75</td><td>Putty</td><td>Simon Tatham</td></tr>
 <tr><td>e9234715-793e-0ce2-1e59-3661fdb66e06</td><td>Python 3.10</td><td>Python Software Foundation</td></tr>
 <tr><td>1fcf3f84-f609-547e-6b0b-36ad9ef642ed</td><td>Python 3.11</td><td>Python Software Foundation</td></tr>
 <tr><td>58fd361b-c2ba-28ce-ee94-3635f51e1350</td><td>Python 3.9</td><td>Python Software Foundation</td></tr>
@@ -205,7 +206,6 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>6a6b9ee1-0b38-18b7-9fdb-369bf77f87e9</td><td>RStudio 1.4</td><td>RStudio</td></tr>
 <tr><td>37c6a662-3485-2a94-5db5-36800a99582b</td><td>ScreenToGif</td><td>Nicke Manarin</td></tr>
 <tr><td>726a787e-9017-e2be-84ae-36a9aef6def6</td><td>Sejda PDF Desktop</td><td>Sejda BV</td></tr>
-<tr><td>793b57dd-ef4c-4c46-06e5-35e155787f75</td><td>Simon Tatham Putty</td><td>Simon Tatham</td></tr>
 <tr><td>85509b7d-929e-0e25-5ba0-35e155cd4f88</td><td>SnapGene Viewer</td><td>GSL Biotech LLC</td></tr>
 <tr><td>2b67746a-f3ee-dbb6-05fd-364d61931038</td><td>Snapmaker Luban</td><td>Snapmaker</td></tr>
 <tr><td>58828d99-fcfb-c93e-3ed3-35e155b7d7fe</td><td>Squirrels Reflector 3</td><td>Squirrels</td></tr>
