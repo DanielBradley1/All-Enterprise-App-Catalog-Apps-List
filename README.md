@@ -1,16 +1,18 @@
 # All Enterprise App Catalog Apps List 
 This list is automatically updated daily with the latest apps from the Enterprise App Catalog in Microsoft Intune
 
-### Last updated: 07/06/2024
+### Last updated: 13/06/2024
 
 <table>
 <colgroup><col/><col/><col/></colgroup>
 <tr><th>productId</th><th>productDisplayName</th><th>publisherDisplayName</th></tr>
 <tr><td>752bbff6-5cca-7dd6-ef1f-36cc75df8512</td><td>3CXPhone for Windows</td><td>3CX</td></tr>
 <tr><td>3a6307ef-6991-faf1-01e1-35e1557287aa</td><td>7-Zip</td><td>Igor Pavlov</td></tr>
+<tr><td>faf81ee1-a662-4425-a274-35ebc732cb46</td><td>8x8 Work</td><td>8x8 Inc.</td></tr>
 <tr><td>5074acc5-1a12-b647-17c6-35e1558cfa2a</td><td>ActiveState Software Komodo Edit</td><td>ActiveState Software Inc.</td></tr>
 <tr><td>5758e7f4-f29c-9d9e-5bd3-35e155ce5e9e</td><td>AIMP for Windows</td><td>Artem Izmaylov</td></tr>
 <tr><td>511ed790-60b1-4599-1068-36cf324a4108</td><td>Aircall for desktop</td><td>Aircall</td></tr>
+<tr><td>88374178-6cab-764e-22a4-35e15598521f</td><td>Allway Sync</td><td>Botkind, Inc.</td></tr>
 <tr><td>837f7b3b-265f-4a29-60cd-35e155d1adbd</td><td>Amazon AWS Tools for Windows</td><td>Amazon Web Services Developer Relati</td></tr>
 <tr><td>42015e5c-d515-3a36-2ba4-367c880e29da</td><td>Amazon AWS VPN Client</td><td>Amazon</td></tr>
 <tr><td>93eef4c1-6d55-2858-b7fb-361dd454eb49</td><td>Amazon Corretto 15</td><td>Amazon</td></tr>
@@ -18,6 +20,8 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>4473f3f4-0f27-813c-c925-36a03a6e94b6</td><td>Amazon Corretto 19</td><td>Amazon</td></tr>
 <tr><td>1b42ff00-6599-0341-0237-35f987a44a8e</td><td>Amazon Corretto JDK 8</td><td>Amazon</td></tr>
 <tr><td>156d5bcf-aaea-99b0-5532-35e155c7ce51</td><td>Amazon Kindle</td><td>Amazon</td></tr>
+<tr><td>0d7398b1-78dd-0dc5-0b84-36cb1f3ce60e</td><td>Amazon Redshift ODBC driver</td><td>Amazon Web Services, Inc</td></tr>
+<tr><td>0c08ad5d-a2a6-282e-40ca-35e155ba1a83</td><td>Amazon WorkSpaces</td><td>Amazon Web Services, Inc</td></tr>
 <tr><td>2309672f-9b8a-8330-35cf-35e155acd2cb</td><td>Android Studio 2022</td><td>Android</td></tr>
 <tr><td>3a6dd992-5e74-21e1-621c-365c7c6d753e</td><td>Android Studio 3</td><td>Android</td></tr>
 <tr><td>249980c7-b652-cbea-621f-365c7c6e0839</td><td>Android Studio 4</td><td>Android</td></tr>
@@ -43,6 +47,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>3385f294-b06c-63e9-3573-36c6cf70660d</td><td>Capture One 20</td><td>Capture One</td></tr>
 <tr><td>26994af1-3caf-7a96-3b3c-364eb29b6615</td><td>Cisco Jabber 14</td><td>Cisco Systems, Inc.</td></tr>
 <tr><td>8cddceb9-967a-03cb-000f-36cb16ae9527</td><td>Cisco JVDI Agent 12</td><td>Cisco Systems, Inc.</td></tr>
+<tr><td>a3a0ccf7-4513-b388-87f4-361b0e13236e</td><td>Cisco JVDI Agent 14</td><td>Cisco Systems, Inc.</td></tr>
 <tr><td>b78b884d-d357-f3a3-5eb9-35e155d06b8d</td><td>Cisco Webex Meetings</td><td>Cisco Webex LLC</td></tr>
 <tr><td>37fd8278-44e8-c65e-0f9a-35e155827efc</td><td>Cisco WebEx Recorder and Player</td><td>Cisco Webex LLC</td></tr>
 <tr><td>5952dbc0-760f-81a2-17a8-35e1558cbaa6</td><td>Cisco WebEx Recording Editor</td><td>Cisco Webex LLC</td></tr>
@@ -62,8 +67,10 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>2b7d73ba-e92f-a6ab-ffd9-366496f6cf40</td><td>Dell Command Update (Windows Universal Application)</td><td>Dell, Inc.</td></tr>
 <tr><td>4b8cbc05-655b-31b5-5b65-35e155cd2a3e</td><td>Docker Desktop</td><td>Docker Inc.</td></tr>
 <tr><td>89284896-6b0b-2ffc-7296-3694b49c6a4b</td><td>draw.io Desktop</td><td>draw.io</td></tr>
+<tr><td>2d439944-a9c0-80c1-c606-364c256d0177</td><td>Druva inSync</td><td>Druva Technologies Pte. Ltd</td></tr>
 <tr><td>71df8120-22db-c20a-a681-364c9eac3198</td><td>Duo Desktop</td><td>Duo Security Inc.</td></tr>
 <tr><td>37b1f496-70ad-8e18-6012-35e155d146e9</td><td>Eclipse Temurin JDK with Hotspot 11 (LTS)</td><td>Eclipse Foundation</td></tr>
+<tr><td>41f49fee-502a-526f-6025-35e155d155d0</td><td>Eclipse Temurin JDK with Hotspot 12</td><td>Eclipse Foundation</td></tr>
 <tr><td>93b20d19-e15a-7288-d74c-3616ebd0ae30</td><td>Eclipse Temurin JDK with Hotspot 15</td><td>Eclipse Foundation</td></tr>
 <tr><td>d57cc046-8a4d-01a8-2527-363a522cea0a</td><td>Eclipse Temurin JDK with Hotspot 16</td><td>Eclipse Foundation</td></tr>
 <tr><td>96dc2b0c-e92b-93f3-762f-36678c4a6d38</td><td>Eclipse Temurin JDK with Hotspot 17 (LTS)</td><td>Eclipse Foundation</td></tr>
@@ -85,20 +92,29 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>0ad28065-9c63-e258-0b00-35e1557c8b52</td><td>FastStone Soft Capture</td><td>FastStone Soft</td></tr>
 <tr><td>50a3454f-f25e-954e-0aea-35e1557c537a</td><td>FastStone Soft Image Viewer</td><td>FastStone Soft</td></tr>
 <tr><td>c07183fa-a48a-2859-155c-35e15589d01e</td><td>FlashFXP</td><td>OpenSight Software LLC</td></tr>
+<tr><td>66d8a94a-d9eb-ac95-1344-35e15586b33a</td><td>Fort&#233; Agent</td><td>Fort&#233;</td></tr>
 <tr><td>354e0bed-e976-a4a4-13ac-35e15587406b</td><td>Foxit PDF Editor 11</td><td>Foxit Software</td></tr>
 <tr><td>89858ac5-f14d-a957-6582-36963d8a8152</td><td>Foxit PDF Editor 12</td><td>Foxit Software</td></tr>
+<tr><td>056ec26c-966d-ef80-0c5d-35e1557e06d9</td><td>Foxit PDF Editor Pro 11</td><td>Foxit Software</td></tr>
 <tr><td>1294e47a-7bab-a841-0395-35e155752e8c</td><td>Foxit PDF Reader</td><td>Foxit Software</td></tr>
 <tr><td>c4b93410-ef58-7d13-6ee8-365f08ab43e1</td><td>Frame App</td><td>Nutanix Inc.</td></tr>
 <tr><td>c1558f52-9c2f-7989-969b-365d0a5d77c6</td><td>Free Countdown Timer</td><td>Comfort Software Group</td></tr>
 <tr><td>dabe1294-cc95-5b41-55c4-35e155c80fe2</td><td>FXHOME HitFilm Express</td><td>FXHOME</td></tr>
 <tr><td>f25982a7-a68f-bdc7-2e08-35e155a5b526</td><td>Gadwin PrintScreen</td><td>Gadwin Systems</td></tr>
 <tr><td>eab8126c-41f4-d624-2e1d-35e155a5c1aa</td><td>Gadwin PrintScreenPro</td><td>Gadwin Systems</td></tr>
+<tr><td>6137ecc4-4601-11b6-9eb6-367cbf614fd2</td><td>Genesys Cloud</td><td>Genesys</td></tr>
+<tr><td>551903a3-8f54-cf7b-03b1-35e155754106</td><td>GIMP</td><td>GIMP</td></tr>
 <tr><td>441e7257-2546-f91d-0369-3616f206eb05</td><td>GitHub CLI</td><td>GitHub, Inc.</td></tr>
+<tr><td>a37c5b04-75b7-9f8b-d2d6-36cb865f5da6</td><td>GoLand 2021.1</td><td>JetBrains</td></tr>
+<tr><td>1aa45228-42ad-3c85-5a85-36cb44871911</td><td>GoLand 2022.2</td><td>JetBrains</td></tr>
 <tr><td>e019e67c-b2e4-ef59-3f49-35e155b84467</td><td>GoodSync 12</td><td>Siber Systems Inc</td></tr>
 <tr><td>7a8149b3-a012-9b5b-02af-35e15573a555</td><td>Google Chrome for Business</td><td>Google</td></tr>
 <tr><td>51b0c462-5efb-a715-02eb-35e155747ca6</td><td>Google Drive</td><td>Google</td></tr>
 <tr><td>8a2eeb52-74d9-05a5-4831-35e155be9451</td><td>Google Drive File Stream</td><td>Google</td></tr>
+<tr><td>53631b0b-0bee-5d08-5b32-369d5923a470</td><td>Google Go Programming Language 1.19</td><td>Google</td></tr>
+<tr><td>4fe10820-8528-3480-47e1-36c13d7bcbbd</td><td>Google Go Programming Language 1.20</td><td>Google</td></tr>
 <tr><td>0f35d2ec-06c1-a074-b998-3635cb427582</td><td>Gpg4win</td><td>Intevation GmbH</td></tr>
+<tr><td>779c1370-0cb5-6eb7-3f09-35e155b821d5</td><td>grepWin</td><td>Stefans Tools</td></tr>
 <tr><td>e5ae223d-ca06-86ab-19d9-35e155909259</td><td>HeidiSQL</td><td>Ansgar Becker</td></tr>
 <tr><td>8ba12a31-b811-38f6-2a1e-3625787e6c87</td><td>HP Prime Virtual Calculator</td><td>HP</td></tr>
 <tr><td>cb1ef45d-4016-7918-0011-36ae004769e8</td><td>HWMonitor</td><td>CPUID, Inc</td></tr>
@@ -109,7 +125,9 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>ae9cee4e-7d4d-6b0f-41c0-36cbb17f138b</td><td>IBM Semeru Runtime Open Edition JDK 8 (LTS)</td><td>Semeru</td></tr>
 <tr><td>cfe1f3cb-476a-b338-957d-36cbb4964994</td><td>IBM Semeru Runtime Open Edition JRE 11 (LTS)</td><td>Semeru</td></tr>
 <tr><td>66aad7a0-3674-26d4-34e1-36cc44636d36</td><td>IBM Semeru Runtime Open Edition JRE 17 (LTS)</td><td>Semeru</td></tr>
+<tr><td>214089da-c632-26a5-3953-36cc44b319e6</td><td>IBM Semeru Runtime Open Edition JRE 18</td><td>Semeru</td></tr>
 <tr><td>1f3592ff-01ff-85fd-4a4b-364bcc46ee41</td><td>IcedTea-Web</td><td>IcedTea-Web open-source project</td></tr>
+<tr><td>5f7c27b2-370e-0d0d-85b1-366532139342</td><td>ImageGlass</td><td>Dương Diệu Ph&#225;p</td></tr>
 <tr><td>e0d1632d-af41-b3db-0b14-35e1557cc42e</td><td>Inkscape</td><td>Inkscape</td></tr>
 <tr><td>ad6b6027-7faa-7519-04ac-35e15576a268</td><td>IrfanView</td><td>Irfan Skiljan</td></tr>
 <tr><td>307921f6-4ad9-120c-ee2c-3698054782b5</td><td>IronPython 2.7</td><td>IronPython Team</td></tr>
@@ -119,6 +137,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>390a32da-8f0d-9db2-41d9-35e155bab2a0</td><td>KeePassXC</td><td>KeePassXC</td></tr>
 <tr><td>56bdd75c-b84c-579e-1eac-366a16b7a597</td><td>Kerio Connect</td><td>GFI Software</td></tr>
 <tr><td>f8dd4cc9-52ad-05a4-2ec5-369991420ae1</td><td>Lansweeper</td><td>Lansweeper</td></tr>
+<tr><td>e4b1b1f7-bd5f-7f43-bde6-36bf4f8d743b</td><td>LEGO Education SPIKE</td><td>LEGO</td></tr>
 <tr><td>950a76b5-2605-7b98-1bef-36d9c5bc1bc1</td><td>Lenovo Quick Clean</td><td>Lenovo Software</td></tr>
 <tr><td>4e05260d-e1f9-252a-d69a-3677d2c240c0</td><td>Logi Tune</td><td>Logitech</td></tr>
 <tr><td>c92b3c86-db8f-1acc-07b0-35e1557909bc</td><td>Logitech SetPoint</td><td>Logitech</td></tr>
@@ -131,6 +150,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>b6ca2f8e-05b2-957d-4bb9-363044aec79a</td><td>Mendeley Reference Manager</td><td>Mendeley Ltd</td></tr>
 <tr><td>f6b4f382-a675-01d2-2881-3668d73394fe</td><td>Microsoft .NET Runtime 6.0</td><td>Microsoft</td></tr>
 <tr><td>9b0e6ee2-0075-ffd6-ca6f-36b0933b360b</td><td>Microsoft .NET Runtime 7.0</td><td>Microsoft</td></tr>
+<tr><td>3aefbae0-1c6a-930f-2887-3668d73a6129</td><td>Microsoft ASP.NET Core Runtime 6.0</td><td>Microsoft</td></tr>
 <tr><td>a72c84c8-752e-922a-ca9d-36b093b90615</td><td>Microsoft ASP.NET Core Runtime 7.0</td><td>Microsoft</td></tr>
 <tr><td>b2e2896b-a27e-871c-5c32-35e155ceac4b</td><td>Microsoft Azure CLI</td><td>Microsoft</td></tr>
 <tr><td>21428b45-c467-f9e2-509d-35e155c425b3</td><td>Microsoft Azure Storage Explorer</td><td>Microsoft</td></tr>
@@ -145,7 +165,9 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>f29834f6-3d7c-6f72-3e8c-35e155b731d3</td><td>Microsoft Visual C++ 2015-2022  Redistributable</td><td>Microsoft</td></tr>
 <tr><td>38e2d01b-32fc-677b-47d3-35e155be5523</td><td>Microsoft Visual Studio Code</td><td>Microsoft</td></tr>
 <tr><td>27713a2c-e8b4-eb63-51fc-35e155c4f454</td><td>Microsoft Windows Admin Center</td><td>Microsoft</td></tr>
+<tr><td>d5d33da9-a8f6-5857-3a12-366c39f7f9cd</td><td>Microsoft Windows Desktop Runtime 6.0</td><td>Microsoft</td></tr>
 <tr><td>5588d88b-feda-9421-ca64-36b0931939ac</td><td>Microsoft Windows Desktop Runtime 7.0</td><td>Microsoft</td></tr>
+<tr><td>3b85f3d0-914f-101f-f264-36418710ae9b</td><td>MongoDB Compass</td><td>MongoDB Inc.</td></tr>
 <tr><td>8b831845-d4e8-2b28-1564-35e15589d3b1</td><td>Mozilla Firefox</td><td>Mozilla</td></tr>
 <tr><td>37a3f6b5-8193-9520-e648-36a1675f893c</td><td>Mozilla Firefox ESR 102</td><td>Mozilla</td></tr>
 <tr><td>be031777-99b6-db5b-2006-35e1559661f1</td><td>Mozilla FrontMotion Firefox Community Edition</td><td>Mozilla</td></tr>
@@ -165,6 +187,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>75abd9d5-bc20-0d3c-52bb-35e155c56109</td><td>NoMachine</td><td>NoMachine</td></tr>
 <tr><td>6cdfe3fd-de83-96a6-0657-35e15577dcd9</td><td>Notepad++</td><td>Don Ho</td></tr>
 <tr><td>77078e3d-38a1-42cf-9a72-36628d03d39b</td><td>NVIDIA GeForce Experience</td><td>NVIDIA</td></tr>
+<tr><td>b49a3da4-ec28-7519-8422-366531c8d062</td><td>Obsidian</td><td>Obsidian</td></tr>
 <tr><td>aacbfa0c-4764-5de6-3f7c-3644309bab1c</td><td>OpenJDK 11</td><td>Microsoft</td></tr>
 <tr><td>191fcfbd-30e1-a5cd-75bc-365570dbf568</td><td>OpenJDK 16</td><td>Microsoft</td></tr>
 <tr><td>3dc35d7e-5b62-29f3-bb83-3661f3c2d875</td><td>OpenJDK 17</td><td>Microsoft</td></tr>
@@ -174,7 +197,10 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>e1d05f41-1ba3-8b58-1952-35e155902546</td><td>Oracle Java Runtime Environment Version 8</td><td>Oracle</td></tr>
 <tr><td>b6adce15-3cb7-c0f1-7f27-365e135f7f7c</td><td>Oracle Java SE Development Kit 17</td><td>Oracle</td></tr>
 <tr><td>6c54d6b5-e621-7afc-28db-35e6a86ac2ae</td><td>Oracle MySQL Installer 8 for Windows</td><td>Oracle</td></tr>
+<tr><td>e41b103b-ca76-8e16-2d69-35e155a4e9ca</td><td>ownCloud Desktop Client</td><td>ownCloud</td></tr>
 <tr><td>32180b3c-1204-a2b0-57c4-3640d0ea537e</td><td>Parallels Client 18</td><td>Parallels International GmbH</td></tr>
+<tr><td>fce4c4fe-35cc-c72a-005d-369c348f196c</td><td>Parallels Client 19</td><td>Parallels International GmbH</td></tr>
+<tr><td>9de53386-d25f-1c8b-06aa-35e15578331b</td><td>PDF24 Creator</td><td>geek Software GmbH</td></tr>
 <tr><td>0e413a4b-48b0-03e9-3876-35e155afa875</td><td>PDFsam Basic</td><td>Sober Lemur S.a.s. di Vacondio Andrea</td></tr>
 <tr><td>e363e4e4-73f1-936b-2952-35f143b19364</td><td>PDFsam Visual</td><td>Sober Lemur S.a.s. di Vacondio Andrea</td></tr>
 <tr><td>4885e9ee-2783-2ca2-ec08-364f8d6cb5e7</td><td>PDF-Tools</td><td>PDF-XChange Co Ltd</td></tr>
@@ -200,6 +226,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>548b8d28-a223-7a54-09b6-35e1557b08ea</td><td>Rarlab WinRAR</td><td>Rarlab</td></tr>
 <tr><td>66ad6070-5747-4a84-a095-369258a485a2</td><td>Remote Help</td><td>Microsoft</td></tr>
 <tr><td>38d9d8c7-826d-adb8-6ad3-367542361183</td><td>REV Hardware Client</td><td>REV Robotics</td></tr>
+<tr><td>c106111f-da24-9200-43a1-365effd72935</td><td>Rocket.Chat</td><td>Rocket.Chat Technologies Corp.</td></tr>
 <tr><td>cd284cb0-cce6-1cf2-1d08-35e155943f0a</td><td>Royal TS 5</td><td>code4ward.net e.U.</td></tr>
 <tr><td>d02ec737-cb96-da5a-b526-364b31d0cea0</td><td>Royal TS 6</td><td>code4ward.net e.U.</td></tr>
 <tr><td>0283019e-82d8-aefa-acfd-36a982636482</td><td>Royal TS 7</td><td>code4ward.net e.U.</td></tr>
@@ -208,6 +235,8 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>726a787e-9017-e2be-84ae-36a9aef6def6</td><td>Sejda PDF Desktop</td><td>Sejda BV</td></tr>
 <tr><td>85509b7d-929e-0e25-5ba0-35e155cd4f88</td><td>SnapGene Viewer</td><td>GSL Biotech LLC</td></tr>
 <tr><td>2b67746a-f3ee-dbb6-05fd-364d61931038</td><td>Snapmaker Luban</td><td>Snapmaker</td></tr>
+<tr><td>3e4e710d-2a42-9172-0cc6-35e1557eb91a</td><td>Softerra LDAP Administrator</td><td>Softerra</td></tr>
+<tr><td>c2751160-551a-9329-3c77-35e155b510bd</td><td>SolarWinds Orion SDK</td><td>SolarWinds</td></tr>
 <tr><td>58828d99-fcfb-c93e-3ed3-35e155b7d7fe</td><td>Squirrels Reflector 3</td><td>Squirrels</td></tr>
 <tr><td>bee39484-ef15-018b-9b16-365221262309</td><td>Squirrels Reflector 4</td><td>Squirrels</td></tr>
 <tr><td>37f34d5d-f53f-5e14-126f-35e15585ef6c</td><td>SRWare Iron</td><td>SRWare</td></tr>
@@ -231,14 +260,19 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>6ec0b7a5-6551-bf87-21fd-36956c2ae636</td><td>Tidio</td><td>Tidio</td></tr>
 <tr><td>4192a501-8f03-d5aa-0d0d-35e1557edf3f</td><td>TightVNC</td><td>TightVNC</td></tr>
 <tr><td>b126dbfa-a6a2-f17a-8bcd-36c85e177294</td><td>TI-SmartView CE-T</td><td>Texas Instruments</td></tr>
+<tr><td>340995f3-18af-2b26-3f1f-35e155b82d29</td><td>TortoiseGit</td><td>TortoiseGit</td></tr>
+<tr><td>19685b9a-dc42-0d1a-3f35-35e155b83915</td><td>TortoiseHg</td><td>TortoiseHg</td></tr>
 <tr><td>edbbab29-753d-03eb-0bb6-35e1557d4aac</td><td>TortoiseSVN</td><td>TortoiseSVN</td></tr>
 <tr><td>026fe679-0473-c7bc-4a9e-35e155bffbce</td><td>TortoiseSVN ipv6</td><td>TortoiseSVN</td></tr>
 <tr><td>faf95b2e-cc7d-4840-3893-368881220856</td><td>UltraViewer</td><td>DucFabulous</td></tr>
 <tr><td>446bd095-f883-0066-5a30-35e155cc90f9</td><td>VariCAD</td><td>VariCAD</td></tr>
+<tr><td>d4be01f5-0086-ffc0-f1a4-36ae38c0262d</td><td>Vim</td><td>Vim Developers</td></tr>
 <tr><td>12da24e2-dc08-0aa7-4955-35e155bf41c0</td><td>voidtools Everything</td><td>voidtools</td></tr>
 <tr><td>c1d24a9b-69db-d0d6-47d4-366d2c2b6f3a</td><td>voidtools Everything Lite</td><td>voidtools</td></tr>
+<tr><td>34bff681-f8bf-b4f9-2981-35e155a1ddf8</td><td>Waterfox</td><td>Waterfox</td></tr>
 <tr><td>f2847dbc-e459-300d-8ed9-365f1285721a</td><td>Waterfox Classic</td><td>Waterfox</td></tr>
 <tr><td>f7ba9aea-a8f1-4764-5791-3672454d5d49</td><td>Win10Pcap</td><td>Daiyuu Nobori, University of Tsukuba, Japan</td></tr>
+<tr><td>858c0bc5-8dbd-5e0e-0a2b-35e1557b4dd4</td><td>WinMerge</td><td>Thingamahoochie Software</td></tr>
 <tr><td>51ed62fb-08ab-c365-09c9-35e1557b130c</td><td>WinSCP</td><td>Martin Prikryl</td></tr>
 <tr><td>f10054f0-c2f6-b989-48b4-367441cec357</td><td>WireGuard</td><td>WireGuard LLC</td></tr>
 <tr><td>8578c0a8-127d-b53b-77c9-367572205c28</td><td>WizTree</td><td>Antibody Software</td></tr>
@@ -246,7 +280,10 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>91ba2209-a872-8d5a-0ade-35e1557c4c52</td><td>XnSoft XnView Extended</td><td>XnSoft</td></tr>
 <tr><td>f5d23f46-6d42-d51d-0ad4-35e1557c478e</td><td>XnSoft XnView Standard</td><td>XnSoft</td></tr>
 <tr><td>2f3cdecb-47fc-0b4f-48f1-36b5e3e3ef19</td><td>Yubico Authenticator</td><td>Yubico AB</td></tr>
+<tr><td>bc6f7145-5335-957c-41e9-36d1fd0db705</td><td>YubiKey Manager CLI</td><td>Yubico AB</td></tr>
+<tr><td>406d5484-b577-d8a7-4e37-35e155c2e3bc</td><td>Zivver Office Plugin</td><td>ZIVVER B.V.</td></tr>
 <tr><td>bbf5028e-061d-7766-4c21-35e155c14382</td><td>Zoom Client for Meetings</td><td>Zoom Video Communications, Inc.</td></tr>
+<tr><td>3f89796b-cb5d-455e-0a7f-35e1557c0a9c</td><td>Zoom Player Max</td><td>Inmatrix</td></tr>
 <tr><td>fffe8848-801f-a496-4c2c-35e155c147ae</td><td>Zoom Plugin for Microsoft Outlook</td><td>Zoom Video Communications, Inc.</td></tr>
 <tr><td>d6d2aa66-6d1f-5d44-052f-36514d13d558</td><td>Zulu JDK 11 (LTS)</td><td>Azul Systems, Inc.</td></tr>
 <tr><td>5ea7178a-f218-3606-fe05-36514ec15edd</td><td>Zulu JDK 13 (MTS)</td><td>Azul Systems, Inc.</td></tr>
