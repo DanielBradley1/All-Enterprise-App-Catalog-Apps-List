@@ -1,7 +1,7 @@
 # All Enterprise App Catalog Apps List 
 This list is automatically updated daily with the latest apps from the Enterprise App Catalog in Microsoft Intune
 
-### Last updated: 17/06/2024
+### Last updated: 27/06/2024
 
 <table>
 <colgroup><col/><col/><col/></colgroup>
@@ -10,7 +10,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>3a6307ef-6991-faf1-01e1-35e1557287aa</td><td>7-Zip</td><td>Igor Pavlov</td></tr>
 <tr><td>faf81ee1-a662-4425-a274-35ebc732cb46</td><td>8x8 Work</td><td>8x8 Inc.</td></tr>
 <tr><td>5074acc5-1a12-b647-17c6-35e1558cfa2a</td><td>ActiveState Software Komodo Edit</td><td>ActiveState Software Inc.</td></tr>
-<tr><td>5758e7f4-f29c-9d9e-5bd3-35e155ce5e9e</td><td>AIMP for Windows</td><td>Artem Izmaylov</td></tr>
+<tr><td>5758e7f4-f29c-9d9e-5bd3-35e155ce5e9e</td><td>AIMP</td><td>Artem Izmaylov</td></tr>
 <tr><td>511ed790-60b1-4599-1068-36cf324a4108</td><td>Aircall for desktop</td><td>Aircall</td></tr>
 <tr><td>88374178-6cab-764e-22a4-35e15598521f</td><td>Allway Sync</td><td>Botkind, Inc.</td></tr>
 <tr><td>837f7b3b-265f-4a29-60cd-35e155d1adbd</td><td>Amazon AWS Tools for Windows</td><td>Amazon Web Services Developer Relati</td></tr>
@@ -33,7 +33,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>63a807a7-df4c-7a06-c198-3600cc6f65fb</td><td>Atomi Systems ActivePresenter</td><td>Atomi Systems, Inc.</td></tr>
 <tr><td>f53f80e9-a0b0-9c4e-0215-35e155730fb7</td><td>Audacity</td><td>Audacity</td></tr>
 <tr><td>7e3f084b-74e7-2e93-ef08-369861e38c15</td><td>Autodesk Single Signon Component</td><td>Autodesk Inc.</td></tr>
-<tr><td>67f0f868-162c-7110-0f18-35e15581adc8</td><td>AVS Media Player</td><td>Online Media Technologies Ltd</td></tr>
+<tr><td>67f0f868-162c-7110-0f18-35e15581adc8</td><td>AVS Media Player</td><td>Ascensio System SIA</td></tr>
 <tr><td>0b18a767-e4ab-8902-de39-364f8ceb04af</td><td>Azure Functions Core Tools</td><td>Microsoft</td></tr>
 <tr><td>80320923-48fa-675b-5a33-3655fbe4bd0c</td><td>Belgium e-ID viewer</td><td>Belgian Government</td></tr>
 <tr><td>3d75daff-d479-0479-09f0-35e1557b29bb</td><td>Beyond Compare</td><td>Scooter Software, Inc.</td></tr>
@@ -162,7 +162,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>e9bd1921-19fa-8f54-4728-35e155bdd05d</td><td>Microsoft SQL Server 2016 Report Builder</td><td>Microsoft</td></tr>
 <tr><td>68a84850-a268-59fa-729c-365fcf8e8d2b</td><td>Microsoft Surface Diagnostic Toolkit for Business</td><td>Microsoft</td></tr>
 <tr><td>fa8d6266-3948-6dad-1668-35e1558af73e</td><td>Microsoft Visual C++ 2008 Redistributable</td><td>Microsoft</td></tr>
-<tr><td>f29834f6-3d7c-6f72-3e8c-35e155b731d3</td><td>Microsoft Visual C++ 2015-2022  Redistributable</td><td>Microsoft</td></tr>
+<tr><td>f29834f6-3d7c-6f72-3e8c-35e155b731d3</td><td>Microsoft Visual C++ 2015-2022 Redistributable</td><td>Microsoft</td></tr>
 <tr><td>38e2d01b-32fc-677b-47d3-35e155be5523</td><td>Microsoft Visual Studio Code</td><td>Microsoft</td></tr>
 <tr><td>27713a2c-e8b4-eb63-51fc-35e155c4f454</td><td>Microsoft Windows Admin Center</td><td>Microsoft</td></tr>
 <tr><td>d5d33da9-a8f6-5857-3a12-366c39f7f9cd</td><td>Microsoft Windows Desktop Runtime 6.0</td><td>Microsoft</td></tr>
@@ -233,6 +233,8 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>6a6b9ee1-0b38-18b7-9fdb-369bf77f87e9</td><td>RStudio 1.4</td><td>RStudio</td></tr>
 <tr><td>37c6a662-3485-2a94-5db5-36800a99582b</td><td>ScreenToGif</td><td>Nicke Manarin</td></tr>
 <tr><td>726a787e-9017-e2be-84ae-36a9aef6def6</td><td>Sejda PDF Desktop</td><td>Sejda BV</td></tr>
+<tr><td>e6a2ee05-1d14-e764-6344-36ada54e2f5c</td><td>Snagit 2023</td><td>TechSmith Corporation</td></tr>
+<tr><td>cc41698e-b5e9-2770-8313-36f102ffbf65</td><td>Snagit 2024</td><td>TechSmith Corporation</td></tr>
 <tr><td>85509b7d-929e-0e25-5ba0-35e155cd4f88</td><td>SnapGene Viewer</td><td>GSL Biotech LLC</td></tr>
 <tr><td>2b67746a-f3ee-dbb6-05fd-364d61931038</td><td>Snapmaker Luban</td><td>Snapmaker</td></tr>
 <tr><td>3e4e710d-2a42-9172-0cc6-35e1557eb91a</td><td>Softerra LDAP Administrator</td><td>Softerra</td></tr>
@@ -251,8 +253,6 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>c51a06c0-9d10-dee4-0abd-35e1557c3cd4</td><td>TechSmith Snagit 2019</td><td>TechSmith Corporation</td></tr>
 <tr><td>08826614-88ee-3de8-5f32-35e155d0b107</td><td>TechSmith Snagit 2020</td><td>TechSmith Corporation</td></tr>
 <tr><td>7e2efe02-66c3-81ab-2dae-361d3d92ba98</td><td>TechSmith Snagit 2021</td><td>TechSmith Corporation</td></tr>
-<tr><td>e6a2ee05-1d14-e764-6344-36ada54e2f5c</td><td>TechSmith Snagit 2023</td><td>TechSmith Corporation</td></tr>
-<tr><td>cc41698e-b5e9-2770-8313-36f102ffbf65</td><td>TechSmith Snagit 2024</td><td>TechSmith Corporation</td></tr>
 <tr><td>7b752bce-a2a0-8974-0d23-35e1557eea92</td><td>TGRMN Software Bulk Rename Utility</td><td>TGRMN Software</td></tr>
 <tr><td>44ed608f-388d-5968-5a8b-35e155ccbd14</td><td>The Document Foundation LibreOffice 6.3</td><td>The Document Foundation</td></tr>
 <tr><td>b35bc45e-539d-0083-c63f-36a04898b2be</td><td>The Document Foundation LibreOffice 7.4 Help Pack</td><td>The Document Foundation</td></tr>
@@ -276,15 +276,15 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>51ed62fb-08ab-c365-09c9-35e1557b130c</td><td>WinSCP</td><td>Martin Prikryl</td></tr>
 <tr><td>f10054f0-c2f6-b989-48b4-367441cec357</td><td>WireGuard</td><td>WireGuard LLC</td></tr>
 <tr><td>8578c0a8-127d-b53b-77c9-367572205c28</td><td>WizTree</td><td>Antibody Software</td></tr>
-<tr><td>f0f2fad9-fb2d-8ce1-a24d-35ebc732bcf8</td><td>Xamarin Mono for Windows</td><td>Xamarin, Inc.</td></tr>
+<tr><td>f0f2fad9-fb2d-8ce1-a24d-35ebc732bcf8</td><td>Xamarin Mono</td><td>Xamarin, Inc.</td></tr>
 <tr><td>91ba2209-a872-8d5a-0ade-35e1557c4c52</td><td>XnSoft XnView Extended</td><td>XnSoft</td></tr>
 <tr><td>f5d23f46-6d42-d51d-0ad4-35e1557c478e</td><td>XnSoft XnView Standard</td><td>XnSoft</td></tr>
 <tr><td>2f3cdecb-47fc-0b4f-48f1-36b5e3e3ef19</td><td>Yubico Authenticator</td><td>Yubico AB</td></tr>
 <tr><td>bc6f7145-5335-957c-41e9-36d1fd0db705</td><td>YubiKey Manager CLI</td><td>Yubico AB</td></tr>
 <tr><td>406d5484-b577-d8a7-4e37-35e155c2e3bc</td><td>Zivver Office Plugin</td><td>ZIVVER B.V.</td></tr>
-<tr><td>bbf5028e-061d-7766-4c21-35e155c14382</td><td>Zoom Client for Meetings</td><td>Zoom Video Communications, Inc.</td></tr>
 <tr><td>3f89796b-cb5d-455e-0a7f-35e1557c0a9c</td><td>Zoom Player Max</td><td>Inmatrix</td></tr>
 <tr><td>fffe8848-801f-a496-4c2c-35e155c147ae</td><td>Zoom Plugin for Microsoft Outlook</td><td>Zoom Video Communications, Inc.</td></tr>
+<tr><td>bbf5028e-061d-7766-4c21-35e155c14382</td><td>Zoom Workplace</td><td>Zoom Video Communications, Inc.</td></tr>
 <tr><td>d6d2aa66-6d1f-5d44-052f-36514d13d558</td><td>Zulu JDK 11 (LTS)</td><td>Azul Systems, Inc.</td></tr>
 <tr><td>5ea7178a-f218-3606-fe05-36514ec15edd</td><td>Zulu JDK 13 (MTS)</td><td>Azul Systems, Inc.</td></tr>
 <tr><td>f9b5dba3-9b21-3e61-2efc-36514ef974d3</td><td>Zulu JDK 15 (MTS)</td><td>Azul Systems, Inc.</td></tr>
