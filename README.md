@@ -1,7 +1,7 @@
 # All Enterprise App Catalog Apps List 
 This list is automatically updated daily with the latest apps from the Enterprise App Catalog in Microsoft Intune
 
-### Last updated: 26/07/2024
+### Last updated: 04/10/2024
 
 <table>
 <colgroup><col/><col/><col/></colgroup>
@@ -18,14 +18,14 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>511ed790-60b1-4599-1068-36cf324a4108</td><td>Aircall for desktop</td><td>Aircall</td></tr>
 <tr><td>6ffbe0b8-cec0-2fce-1105-35e155847d06</td><td>ALLPlayer</td><td>ALLPLayer.org</td></tr>
 <tr><td>88374178-6cab-764e-22a4-35e15598521f</td><td>Allway Sync</td><td>Botkind, Inc.</td></tr>
-<tr><td>19d70636-af58-ef5c-389d-35e155afc04c</td><td>Amazon AWS Command Line Interface</td><td>Amazon Web Services Developer Relati</td></tr>
+<tr><td>19d70636-af58-ef5c-389d-35e155afc04c</td><td>Amazon AWS Command Line Interface</td><td>Amazon Web Services Developer Relations</td></tr>
 <tr><td>837f7b3b-265f-4a29-60cd-35e155d1adbd</td><td>Amazon AWS Tools for Windows</td><td>Amazon Web Services Developer Relati</td></tr>
 <tr><td>42015e5c-d515-3a36-2ba4-367c880e29da</td><td>Amazon AWS VPN Client</td><td>Amazon</td></tr>
-<tr><td>93eef4c1-6d55-2858-b7fb-361dd454eb49</td><td>Amazon Corretto 15</td><td>Amazon</td></tr>
-<tr><td>bd085806-386f-0cff-4aca-363a78f1b639</td><td>Amazon Corretto 16</td><td>Amazon</td></tr>
-<tr><td>4473f3f4-0f27-813c-c925-36a03a6e94b6</td><td>Amazon Corretto 19</td><td>Amazon</td></tr>
 <tr><td>5b9a0e96-d425-05e7-0226-35f987a43a76</td><td>Amazon Corretto JDK 11</td><td>Amazon</td></tr>
+<tr><td>93eef4c1-6d55-2858-b7fb-361dd454eb49</td><td>Amazon Corretto JDK 15</td><td>Amazon</td></tr>
+<tr><td>bd085806-386f-0cff-4aca-363a78f1b639</td><td>Amazon Corretto JDK 16</td><td>Amazon</td></tr>
 <tr><td>5572c062-aedb-4a97-0167-365e9e1dd8f8</td><td>Amazon Corretto JDK 17</td><td>Amazon</td></tr>
+<tr><td>4473f3f4-0f27-813c-c925-36a03a6e94b6</td><td>Amazon Corretto JDK 19</td><td>Amazon</td></tr>
 <tr><td>1b42ff00-6599-0341-0237-35f987a44a8e</td><td>Amazon Corretto JDK 8</td><td>Amazon</td></tr>
 <tr><td>156d5bcf-aaea-99b0-5532-35e155c7ce51</td><td>Amazon Kindle</td><td>Amazon</td></tr>
 <tr><td>0d7398b1-78dd-0dc5-0b84-36cb1f3ce60e</td><td>Amazon Redshift ODBC driver</td><td>Amazon Web Services, Inc</td></tr>
@@ -184,11 +184,11 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>66aad7a0-3674-26d4-34e1-36cc44636d36</td><td>IBM Semeru Runtime Open Edition JRE 17 (LTS)</td><td>Semeru</td></tr>
 <tr><td>214089da-c632-26a5-3953-36cc44b319e6</td><td>IBM Semeru Runtime Open Edition JRE 18</td><td>Semeru</td></tr>
 <tr><td>12080f07-cb25-dad9-2623-36cc42c52f39</td><td>IBM Semeru Runtime Open Edition JRE 8 (LTS)</td><td>Semeru</td></tr>
-<tr><td>1f3592ff-01ff-85fd-4a4b-364bcc46ee41</td><td>IcedTea-Web</td><td>IcedTea-Web open-source project</td></tr>
+<tr><td>1f3592ff-01ff-85fd-4a4b-364bcc46ee41</td><td>IcedTea-Web</td><td>Azul Systems, Inc.</td></tr>
 <tr><td>5f7c27b2-370e-0d0d-85b1-366532139342</td><td>ImageGlass</td><td>Dương Diệu Ph&#225;p</td></tr>
 <tr><td>e0d1632d-af41-b3db-0b14-35e1557cc42e</td><td>Inkscape</td><td>Inkscape</td></tr>
 <tr><td>ad6b6027-7faa-7519-04ac-35e15576a268</td><td>IrfanView</td><td>Irfan Skiljan</td></tr>
-<tr><td>307921f6-4ad9-120c-ee2c-3698054782b5</td><td>IronPython 2.7</td><td>IronPython Team</td></tr>
+<tr><td>307921f6-4ad9-120c-ee2c-3698054782b5</td><td>IronPython</td><td>IronPython Team</td></tr>
 <tr><td>eee66711-7557-97a2-087f-35e15579eb2f</td><td>JAM Software TreeSize Free</td><td>JAM Software GmbH</td></tr>
 <tr><td>4f601983-971a-003a-f56b-36cc778b0727</td><td>Joplin</td><td>Laurent Cozic</td></tr>
 <tr><td>2e37be8a-6578-0c16-0511-35e15576e9ee</td><td>KeePass Password Safe (Classic Edition)</td><td>Dominik Reichl</td></tr>
@@ -304,7 +304,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>6f778880-4eec-4d4d-c931-36bdbd49877a</td><td>OpenWebStart</td><td>Karakun</td></tr>
 <tr><td>e1d05f41-1ba3-8b58-1952-35e155902546</td><td>Oracle Java Runtime Environment Version 8</td><td>Oracle</td></tr>
 <tr><td>b6adce15-3cb7-c0f1-7f27-365e135f7f7c</td><td>Oracle Java SE Development Kit 17</td><td>Oracle</td></tr>
-<tr><td>6c54d6b5-e621-7afc-28db-35e6a86ac2ae</td><td>Oracle MySQL Installer 8 for Windows</td><td>Oracle</td></tr>
+<tr><td>6c54d6b5-e621-7afc-28db-35e6a86ac2ae</td><td>Oracle MySQL Installer 8</td><td>Oracle</td></tr>
 <tr><td>e41b103b-ca76-8e16-2d69-35e155a4e9ca</td><td>ownCloud Desktop Client</td><td>ownCloud</td></tr>
 <tr><td>e2d2b041-c686-7712-acca-36d1ef50ebf3</td><td>PaperCut MF</td><td>PaperCut Software Pty Ltd</td></tr>
 <tr><td>0d1ad2da-6cfd-01da-b1f1-36c2a0b63b05</td><td>PaperCut Mobility Print</td><td>PaperCut Software Pty Ltd</td></tr>
@@ -312,12 +312,12 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>32180b3c-1204-a2b0-57c4-3640d0ea537e</td><td>Parallels Client 18</td><td>Parallels International GmbH</td></tr>
 <tr><td>fce4c4fe-35cc-c72a-005d-369c348f196c</td><td>Parallels Client 19</td><td>Parallels International GmbH</td></tr>
 <tr><td>07a0c97b-9486-9d36-eaac-3645ad6903c7</td><td>Parallels Toolbox</td><td>Parallels International GmbH</td></tr>
+<tr><td>4885e9ee-2783-2ca2-ec08-364f8d6cb5e7</td><td>PDF-Tools</td><td>PDF-XChange Co Ltd</td></tr>
+<tr><td>c5e728a5-b430-c55a-45fe-35e155bd0d79</td><td>PDF-XChange PRO</td><td>PDF-XChange Co Ltd</td></tr>
 <tr><td>9de53386-d25f-1c8b-06aa-35e15578331b</td><td>PDF24 Creator</td><td>geek Software GmbH</td></tr>
 <tr><td>969c713f-245a-eb0a-06b7-35e155783adb</td><td>PDFCreator</td><td>pdfforge GbR</td></tr>
 <tr><td>0e413a4b-48b0-03e9-3876-35e155afa875</td><td>PDFsam Basic</td><td>Sober Lemur S.a.s. di Vacondio Andrea</td></tr>
 <tr><td>e363e4e4-73f1-936b-2952-35f143b19364</td><td>PDFsam Visual</td><td>Sober Lemur S.a.s. di Vacondio Andrea</td></tr>
-<tr><td>4885e9ee-2783-2ca2-ec08-364f8d6cb5e7</td><td>PDF-Tools</td><td>PDF-XChange Co Ltd</td></tr>
-<tr><td>c5e728a5-b430-c55a-45fe-35e155bd0d79</td><td>PDF-XChange PRO</td><td>PDF-XChange Co Ltd</td></tr>
 <tr><td>53aee769-038e-e6b0-0b37-35e1557d00c4</td><td>PeaZip</td><td>PeaZip srl</td></tr>
 <tr><td>3703a6e6-c486-3901-87db-36b18c3bd402</td><td>Pexip Infinity Connect</td><td>Cloud Video</td></tr>
 <tr><td>8403e3ea-3bd9-0f43-5c97-36a7221b2db4</td><td>pgAdmin 4</td><td>EnterpriseDB Corporation</td></tr>
@@ -374,7 +374,7 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>673a3bbf-e9c4-54cb-5340-35e155c5c7ba</td><td>SURF eduVPN Client</td><td>SURF</td></tr>
 <tr><td>b9b9ac3f-0c8e-1127-1cd0-35e155941da7</td><td>SURFdrive</td><td>SURF</td></tr>
 <tr><td>c0ed4cb1-0013-0279-3521-35e155ac0c6c</td><td>SyncBackFree</td><td>2BrightSparks Ptd Ltd</td></tr>
-<tr><td>4e6dd549-fd66-200b-4629-35e155bd4b73</td><td>Synology Drive</td><td>Synology</td></tr>
+<tr><td>4e6dd549-fd66-200b-4629-35e155bd4b73</td><td>Synology Drive Client</td><td>Synology</td></tr>
 <tr><td>0ab69ca4-0ca7-d819-18c7-35e1558f5550</td><td>Synology Evidence Integrity Authenticator</td><td>Synology</td></tr>
 <tr><td>a80c1565-007e-15c9-4b83-35e155c094dc</td><td>Sysprogs SmarTTY</td><td>Sysprogs</td></tr>
 <tr><td>1729aae9-6382-7cb8-50ef-36310c9c04ac</td><td>Tabular Editor 2</td><td>Tabular Editor ApS</td></tr>
@@ -391,9 +391,9 @@ This list is automatically updated daily with the latest apps from the Enterpris
 <tr><td>b35bc45e-539d-0083-c63f-36a04898b2be</td><td>The Document Foundation LibreOffice 7.4 Help Pack</td><td>The Document Foundation</td></tr>
 <tr><td>8722a1d8-e445-165a-6827-36c176d5117d</td><td>The Document Foundation LibreOffice 7.5 SDK</td><td>The Document Foundation</td></tr>
 <tr><td>8f4e5e5a-bed3-fa50-badd-36d5e3bdd756</td><td>Thycotic Application Control Agent</td><td>Thycotic Software, LLC</td></tr>
+<tr><td>b126dbfa-a6a2-f17a-8bcd-36c85e177294</td><td>TI-SmartView CE-T</td><td>Texas Instruments</td></tr>
 <tr><td>6ec0b7a5-6551-bf87-21fd-36956c2ae636</td><td>Tidio</td><td>Tidio</td></tr>
 <tr><td>4192a501-8f03-d5aa-0d0d-35e1557edf3f</td><td>TightVNC</td><td>TightVNC</td></tr>
-<tr><td>b126dbfa-a6a2-f17a-8bcd-36c85e177294</td><td>TI-SmartView CE-T</td><td>Texas Instruments</td></tr>
 <tr><td>340995f3-18af-2b26-3f1f-35e155b82d29</td><td>TortoiseGit</td><td>TortoiseGit</td></tr>
 <tr><td>19685b9a-dc42-0d1a-3f35-35e155b83915</td><td>TortoiseHg</td><td>TortoiseHg</td></tr>
 <tr><td>edbbab29-753d-03eb-0bb6-35e1557d4aac</td><td>TortoiseSVN</td><td>TortoiseSVN</td></tr>
